@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmultiply.a CMakeFiles/multiply.dir/multiply.c.o
+/usr/bin/ranlib libmultiply.a
