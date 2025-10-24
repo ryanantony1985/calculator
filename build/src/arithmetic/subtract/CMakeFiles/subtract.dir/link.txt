@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsubtract.a CMakeFiles/subtract.dir/subtract.c.o
-/usr/bin/ranlib libsubtract.a
