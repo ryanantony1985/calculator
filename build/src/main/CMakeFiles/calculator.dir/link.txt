@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/calculator.dir/main.c.o -o calculator  ../arithmetic/add/libadd.a ../arithmetic/subtract/libsubtract.a ../arithmetic/multiply/libmultiply.a ../arithmetic/divide/libdivide.a
